@@ -1,4 +1,4 @@
-const domain = process.env.REACT_URL; //"http://localhost:8080";
+const domain = "https://backend-2nbr.onrender.com" //"http://localhost:8080";
 
 const Api = {
   signUp: {
